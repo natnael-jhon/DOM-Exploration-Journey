@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(17 24 39);
+    color: white;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .box{
+    border: 1px solid gray;
+    padding: 5rem 8rem;
+    border-radius: 18px;
+  }
