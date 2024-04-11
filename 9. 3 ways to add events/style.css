@@ -1,7 +1,8 @@
 body {
   margin: 10px auto;
-  width: 450px;
+  width: 500px;
   font-family: sans-serif;
+  background-color: darkgray;
 }
 
 h3 {
@@ -32,3 +33,4 @@ p {
   cursor: pointer;
   font-size: 1em;
 }
+
